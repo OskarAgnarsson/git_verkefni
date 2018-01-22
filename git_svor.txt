@@ -1,1 +1,7 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd: breytir um directory
+	cd ~ : breytir í home directory
+	ls: sýnir lista af skrám í directory
+	pwd: sýnir directory sem þú ert í
+	mkdir: býr til directory
