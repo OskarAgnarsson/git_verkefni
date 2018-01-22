@@ -25,3 +25,6 @@ Git spurningar og svör
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Strax og þú ert búinn að vinna á einhverjum hlut, eins og eftir hverja spurningu í þessu. Þá getur þú farið til baka ef það virkar ekki rétt
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? Working directory er staðurinn sem þú ert að vinna í tölvunni. Staging area inniheldur breyttar skrár áður en þær eru committaðar. Repository er geymsla á öllum skrám í tilteknu verkefni.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? Þegar maður er að vinna á einhverju en vill ekki setja það í master strax
+
