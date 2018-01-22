@@ -18,3 +18,4 @@ Git spurningar og svör
 	b) git diff --staged : sýnir breytingar á skrám sem er búið að setja í staging area
 	c) git diff commit1 commit2: sýnir mun á sérstökum committum
 
+4. 	Hvað er útgáfustýring (e.version control)? version control er log sem leyfir þér að fara til baka og skipta um version
