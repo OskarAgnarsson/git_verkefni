@@ -5,3 +5,11 @@ Git spurningar og svör
 	ls: sýnir lista af skrám í directory
 	pwd: sýnir directory sem þú ert í
 	mkdir: býr til directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone: klónar repository yfir í tölvu
+	git log: sýnir öll commit
+	git status: sýnir status á skrám sem þú ert að vinna á
+	git diff: sýnir mun á skrám sem er ekki búið að setja í staging area
+	git checkout: breytir um branch
+
