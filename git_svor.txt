@@ -10,6 +10,11 @@ Git spurningar og svör
 	git clone: klónar repository yfir í tölvu
 	git log: sýnir öll commit
 	git status: sýnir status á skrám sem þú ert að vinna á
-	git diff: sýnir mun á skrám sem er ekki búið að setja í staging area
+	git diff: sýnir breytingar á skrám sem er ekki búið að setja í staging area
 	git checkout: breytir um branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff : sýnir breytingar á skrám sem er ekki búið að setja í staging area
+	b) git diff --staged : sýnir breytingar á skrám sem er búið að setja í staging area
+	c) git diff commit1 commit2: sýnir mun á sérstökum committum
 
