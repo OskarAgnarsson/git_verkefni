@@ -19,3 +19,6 @@ Git spurningar og svör
 	c) git diff commit1 commit2: sýnir mun á sérstökum committum
 
 4. 	Hvað er útgáfustýring (e.version control)? version control er log sem leyfir þér að fara til baka og skipta um version
+
+5.	Hverjir eru helstu kostir við að nota GIT? Þú getur alltaf farið til baka um version ef þú rústar öllu og þú getur unnið við það hvar sem er
+
