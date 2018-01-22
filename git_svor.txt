@@ -22,3 +22,5 @@ Git spurningar og svör
 
 5.	Hverjir eru helstu kostir við að nota GIT? Þú getur alltaf farið til baka um version ef þú rústar öllu og þú getur unnið við það hvar sem er
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Strax og þú ert búinn að vinna á einhverjum hlut, eins og eftir hverja spurningu í þessu. Þá getur þú farið til baka ef það virkar ekki rétt
+
